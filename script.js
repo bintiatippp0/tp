@@ -24,7 +24,6 @@ const phrases = [
     'Web Developer',
     'Network Enthusiast',
     'Problem Solver',
-    'UI/UX Designer'
 ];
 
 let phraseIndex = 0;
